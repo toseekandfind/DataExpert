@@ -1,0 +1,10 @@
+Halo Match Analytics Dashboards
+
+Executive Dashboard:
+https://public.tableau.com/views/DataVizHomework-ExecutiveDashboard/ExecutiveDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Exploratory Dashboard:
+https://public.tableau.com/views/DataVizHomework-Exploratory/ExploreDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Created by: Daniel Halabe
+Date: 2025-02-06
